@@ -145,7 +145,7 @@ One per position group — similarity score (x-axis) vs market value (y-axis), w
 
 *Example — Attacking Midfielder:*
 
-![AM scatter plot](outputs/figures/value_gap_Attacking_Midfielder.png)  
+![AM scatter plot](figures/value_gap_Attacking_Midfielder.png)  
 
 ### Radar charts
 
