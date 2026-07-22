@@ -133,7 +133,7 @@ The model identifies clubs whose squads contain the highest concentration of Cha
 
 ### Spotlight: C. Grant (Notts County)
 
-The model's standout individual finding. Cross-league consistent across two seasons, C. Grant's radar chart shows he not only matches but **exceeds** the Championship High-Pressing 10 archetype average in defensive duels won and progressive runs — all while valued at €225k against a €1m Championship cluster median.
+The model's standout individual finding. Cross-league consistent across two seasons, C. Grant's radar chart shows he not only matches but **exceeds** the Championship High-Pressing 10 archetype average in defensive duels won and passes into the final third — all while valued at €225k against a €1m Championship cluster median.
 
 ---
 
