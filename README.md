@@ -153,11 +153,11 @@ One per position group, comparing the lead valued candidate's metric profile aga
 
 *Example — C. Grant vs High-Pressing 10 archetype:*
 
-![C. Grant radar](outputs/figures/radar_C._Grant.png)   
+![C. Grant radar](figures/radar_C._Grant.png)   
 
 ### Club analysis
 
-![Club analysis](outputs/figures/club_analysis.png)    
+![Club analysis](figures/club_analysis.png)    
  
 ---
 
